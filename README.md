@@ -1,4 +1,4 @@
-# A3_code_project
+# A3_Scratch_project
 
 Working with Data and Code - A3
 
